@@ -129,8 +129,11 @@ This project is a work in progress. Potential future features include:
 *   [ ] **🌐 Web Dashboard:** Develop a simple web interface (e.g., using Flask or FastAPI) to visualize status and historical data.
         
 *   [ ] **📄 Configuration File:** Move target hosts and settings to a configuration file (e.g., `config.yaml` or `config.json`).
+      
 *   [ ] **📊 Advanced Data Visualization:** Integrate charting libraries for better graphical representation of metrics.
+      
 *   [ ] **⚠️ Threshold-Based Alerts:** Define thresholds for latency or other metrics to trigger warnings.
+        
 *   [ ] **📝 Logging Improvements:** More structured logging to a file.
 
 ---
