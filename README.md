@@ -42,12 +42,14 @@ NetWatch is a simple yet effective Python-based tool designed to monitor the hea
 ## 🛠️ Technologies Used
 
 *   **🐍 Python 3.7+**
+  
 *   **📦 Libraries:**
     *   `subprocess`: For executing external commands (ping).
     *   `sqlite3`: For database interaction.
     *   `schedule`: For task scheduling.
     *   `platform`: To determine OS for platform-specific commands.
     *   `datetime`, `time`: For time-related operations.
+      
 *   **🛢️ Database:** SQLite
 
 ---
@@ -57,7 +59,9 @@ NetWatch is a simple yet effective Python-based tool designed to monitor the hea
 ### Prerequisites
 
 *   Python 3.7 or higher installed on your system.
+  
 *   `pip` (Python package installer).
+  
 *   The `ping` utility must be available in your system's PATH.
 
 ### Installation & Setup
