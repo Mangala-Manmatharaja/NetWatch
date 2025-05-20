@@ -68,7 +68,7 @@ NetWatch is a simple yet effective Python-based tool designed to monitor the hea
     # If you plan to create a requirements.txt:
     # pip install -r requirements.txt 
     ```
-    *(Optional: Consider creating a `requirements.txt` file for easier dependency management: `pip freeze > requirements.txt`)*
+ 
 
 3.  **Run the script:**
     ```bash
@@ -97,3 +97,43 @@ The monitor will then start, performing an initial check and then subsequent che
 Press `Ctrl+C` to stop the monitor.
 
 ---
+
+---
+
+## 📈 Future Enhancements
+
+This project is a work in progress. Potential future features include:
+
+*   [ ] **TCP Port Checks:** Add functionality to check if specific TCP ports are open on target hosts.
+*   [ ] **HTTP(S) Health Checks:** Implement checks for web services (status code, content verification).
+*   [ ] **SNMP Polling:** Basic SNMP queries for device metrics (uptime, interface stats) for supported devices.
+*   [ ] **📧 Email Alerting:** Send email notifications for critical events (e.g., host down for X consecutive checks).
+*   [ ] **🌐 Web Dashboard:** Develop a simple web interface (e.g., using Flask or FastAPI) to visualize status and historical data.
+*   [ ] **📄 Configuration File:** Move target hosts and settings to a configuration file (e.g., `config.yaml` or `config.json`).
+*   [ ] **📊 Advanced Data Visualization:** Integrate charting libraries for better graphical representation of metrics.
+*   [ ] **⚠️ Threshold-Based Alerts:** Define thresholds for latency or other metrics to trigger warnings.
+*   [ ] **📝 Logging Improvements:** More structured logging to a file.
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+---
+
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
+
+## 🧑‍💻 Author
+
+*   **MAngala-Manmatharaja**
+*   GitHub: `https://github.com/Mangala-Manmatharaja/`
+
+---
+
+**Disclaimer:** This tool is provided as-is for educational and personal use. Ensure you have permission to monitor any target hosts.
