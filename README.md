@@ -119,6 +119,7 @@ Press `Ctrl+C` to stop the monitor.
 This project is a work in progress. Potential future features include:
 
 *   [ ] **TCP Port Checks:** Add functionality to check if specific TCP ports are open on target hosts.
+      
 *   [ ] **HTTP(S) Health Checks:** Implement checks for web services (status code, content verification).
 *   [ ] **SNMP Polling:** Basic SNMP queries for device metrics (uptime, interface stats) for supported devices.
 *   [ ] **📧 Email Alerting:** Send email notifications for critical events (e.g., host down for X consecutive checks).
