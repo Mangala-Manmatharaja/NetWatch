@@ -88,6 +88,7 @@ NetWatch is a simple yet effective Python-based tool designed to monitor the hea
     # Or whatever you name your main script file
     ```
 
+
 ### Usage
 
 Upon running the script, you will be prompted to:
@@ -103,6 +104,7 @@ Upon running the script, you will be prompted to:
     ```
     Enter check interval in minutes (e.g., 1, 5, 10): 1
     ```
+
 
 The monitor will then start, performing an initial check and then subsequent checks at the specified interval. Monitoring data will be logged to the console and stored in `network_monitor.db`.
 
