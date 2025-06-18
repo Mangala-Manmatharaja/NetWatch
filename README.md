@@ -9,7 +9,7 @@ NetWatch is a simple yet effective Python-based tool designed to monitor the hea
 
 ---
 
-## ✨ F
+## ✨ Fe
 
 *   **🎯 Multi-Host Monitoring:** Monitor multiple hosts (IP addresses or domain names) simultaneously.
 *   **📈 ICMP Ping Checks:**
