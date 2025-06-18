@@ -5,7 +5,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 
-NetWatch is a simple yet effective Python-based tool designed to monitor the health and basic performance of specified network devices and services. It stores collected data, provides basic alerting, and is intended to be extensible. This project was developed as a learning exercise to explore network programming, data storage, and scheduling in Pyt.
+NetWatch is a simple yet effective Python-based tool designed to monitor the health and basic performance of specified network devices and services. It stores collected data, provides basic alerting, and is intended to be extensible. This project was developed as a learning exercise to explore network programming, data storage, and scheduling in Pyth.
 
 ---
 
