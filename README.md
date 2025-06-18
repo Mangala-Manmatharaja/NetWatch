@@ -1,4 +1,4 @@
-# 🌐 NetWatch: Lightweight Network Monitoring & Alerting Sy 📊
+# 🌐 NetWatch: Lightweight Network Monitoring & Alerting Sys 📊
 
 ![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
